@@ -8,7 +8,7 @@ GoldFX Pro combines classical technical analysis, modern price-action concepts, 
 
 ## Features
 
-- **30+ analysis tabs** in a Streamlit interface
+- **30+ analysis tabs** in a Streamlit interface (Arabic-language UI)
 - **16 technical analysis engines** covering:
   - Classical chart patterns and candlestick patterns
   - Harmonic patterns
@@ -61,7 +61,7 @@ streamlit run app.py
 
 ## Project Status
 
-Actively developed. Currently at v4.2 with ongoing work on volume analysis, the ICT Pro tab, and signal validation.
+Actively developed, with ongoing work on volume analysis, the ICT Pro tab, and signal validation.
 
 ## Contributing
 
@@ -70,3 +70,4 @@ Issues and pull requests are welcome. Please open an issue first to discuss majo
 ## License
 
 Released under the [MIT License](LICENSE).
+
