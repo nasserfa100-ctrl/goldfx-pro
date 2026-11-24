@@ -1,4 +1,5 @@
 # GoldFX Pro
+![GoldFX Pro dashboard](screenshot1.png)
 
 AI-powered gold & forex analysis platform built with Python and Streamlit.
 
